@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jul 03 14:14:58 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-015d-0860-09a5-000014b66d08 
+on database directory /Users/user/git/renault_plm/PLMD_17_18/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@3111631d 
+Loaded from file:/Users/user/.m2/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b17
+user.dir=/Users/user/git/renault_plm/PLMD_17_18
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
